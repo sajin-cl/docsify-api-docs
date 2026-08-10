@@ -2,6 +2,10 @@
 
 Login an existing user.
 
+## Login Screenshot
+
+![Login page Screenshot](images/login-screenshot.png)
+
 ## Endpoint
 
 ```http
