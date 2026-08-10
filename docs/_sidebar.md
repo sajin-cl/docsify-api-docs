@@ -11,3 +11,6 @@
 
 -  Orders
    - [Orders API](orders.md)
+
+- Reference
+  - [HTTP Status Codes](status-codes.md)
