@@ -1,7 +1,8 @@
 - Getting Started
   - [Introduction](README.md)
 
-- API
+- Authentication
+  - [Authentication](authentication.md)
   - [Login](login.md)
   - [Regiter](register.md)
 
